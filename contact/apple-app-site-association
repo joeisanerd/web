@@ -1,0 +1,21 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appIDs": ["APFX6968V2.com.joeisanerd.icatcher","RZACDNSPFQ.com.joeisanerd.Pins"],
+                "components": [
+                    {
+                       "#": "no_universal_links",
+                       "exclude": true,
+                       "comment": "Matches any URL whose fragment equals no_universal_links and instructs the system not to open it as a universal link"
+                    },
+                    {
+                        "/": "/itunes/*",
+                        "comment": "Meant to display podcast information using iTunes ID"
+                     }
+                ]
+            }
+        ]
+    }
+}
