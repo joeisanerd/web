@@ -3,7 +3,7 @@
         "apps": [],
         "details": [
             {
-                "appIDs": ["APFX6968V2.com.joeisanerd.icatcher"],
+                "appIDs": ["APFX6968V2.com.joeisanerd.icatcher","RZACDNSPFQ.com.joeisanerd.Pins"],
                 "components": [
                     {
                        "#": "no_universal_links",
